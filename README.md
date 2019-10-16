@@ -1,7 +1,8 @@
 # Big_Data-Amazon_WEB_Services
 
 
-Sentiment Analysis for different SmartPhone types 
+## Sentiment Analysis for different SmartPhone types 
+
 
 The task of this project is to analyze sentiment on the web towards a number of smart phones for Helio, a smart phone and 
 tablet app developer.
