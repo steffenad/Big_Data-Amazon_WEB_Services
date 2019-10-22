@@ -1,4 +1,4 @@
-# Big_Data-Amazon_WEB_Services
+# Big Data - AWS
 
 
 ### Sentiment Analysis for different SmartPhone types 
