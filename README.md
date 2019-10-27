@@ -14,6 +14,9 @@ This suite of apps will enable the aid workers to manage local health conditions
 Helio is in the process of evaluating phone types to determine which one to bundle their software with. 
  
  
+ 
  Goal: To examine the prevalence of positive and negative attitudes toward these devices on the web.
  
  Solution: Sentiment Analysis on AWS (Amazon Web Services) by using Common Crawl data(open repository of web crawl data).
+ 
+
